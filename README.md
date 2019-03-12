@@ -6,4 +6,5 @@ create in Github
 new line loca loca loca
 very new line 
 after updating git config
-<div class="footer footer2">This is footer</div>
+<div class="footer footer1">This is footer</div>
+
